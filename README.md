@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm [Joe Warner](https://joewarner.rocks)</h1>
+<h1 align="center">Hi 👋 I'm </h1>[Joe Warner](https://joewarner.rocks)
 <h3 align="center">A passionate web developer from Milwaukee Wisconsin (but willing to relocate!)</h3>
 
 - 🔭 I’m currently working on [GPG - GoalPlayingGame](https://github.com/warnerjoe/gpg)

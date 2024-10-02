@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Joe Warner</h1>
-<h3 align="center">A passionate web developer from Milwaukee Wisconsin</h3>
+<h3 align="center">A passionate web developer from Milwaukee Wisconsin (but willing to relocate!)</h3>
 
 - 🔭 I’m currently working on [GPG - GoalPlayingGame](#comingSoon)
 

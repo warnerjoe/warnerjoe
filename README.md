@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm [Joe Warner](https://joewarner.rocks)</h1>
 <h3 align="center">A passionate web developer from Milwaukee Wisconsin (but willing to relocate!)</h3>
 
-- 🔭 I’m currently working on [GPG - GoalPlayingGame](/gpg)
+- 🔭 I’m currently working on [GPG - GoalPlayingGame](https://github.com/warnerjoe/gpg)
 
 - 🌱 I’m currently learning **typescript and jest**
 

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GPG - GoalPlayingGame](#comingSoon)
 
-- 🌱 I’m currently learning **full stack javascript**
+- 🌱 I’m currently learning **typescript**
 
 - 👯 I’m looking to collaborate on **MERN projects!**
 

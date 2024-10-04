@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **finding work!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/warnerjoe](https://github.com/warnerjoe)
-
 - 💬 Ask me about **react, node, mongo, jest**
 
 - 📫 How to reach me **warnerjoe337@icloud.com**

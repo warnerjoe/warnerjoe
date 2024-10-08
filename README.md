@@ -3,7 +3,7 @@
 
 - 💼 My [Portfolio website](https://joewarner.rocks/)
 
-- 🔭 I’m currently working on [GPG - GoalPlayingGame](https://github.com/warnerjoe/gpg) (currently in pre-prod, coming soon to github!)
+- 🔭 I’m currently working on a goal app [client](https://github.com/warnerjoe/goal-client) / [server](https://github.com/warnerjoe/goal-server) (currently in pre-prod, coming soon to github!)
 
 - 🌱 I’m currently learning **typescript and jest**
 

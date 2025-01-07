@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/josephwarner87/](https://www.linkedin.com/in/josephwarner87/)
 
-- ⚡ Fun fact **In my free time, I perform improv comedy with the 4 dabloons**
+- ⚡ Fun fact **In my free time, I perform improv comedy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

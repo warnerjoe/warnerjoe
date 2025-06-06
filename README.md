@@ -3,6 +3,8 @@
 
 - 💼 My [Portfolio website](https://joewarner.rocks/)
 
+- Catch me most nights on [Twitch](http://twitch.tv/waggy_is_coding)
+
 - 🔭 I’m working on [Sentomment](https://github.com/warnerjoe/sentiment-check), a sentiment analysis tool for online comments (currently working on a [refactor](https://github.com/warnerjoe/node-testing) to Typescript with Unit testing).
 
 - 🌱 I’m currently learning **Python**
